@@ -1,6 +1,5 @@
-#include "Solution.h"
-#include <vector>
-using namespace std;
+#include "Solution.hpp"
+#include <iostream>
 
 struct testcase {
     vector<int> arr;
